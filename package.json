@@ -1,0 +1,25 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Prueba numero 1 de Node Js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PENA98/NodeJs-Practice-1.git"
+  },
+  "author": "Maynor Pena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PENA98/NodeJs-Practice-1/issues"
+  },
+  "homepage": "https://github.com/PENA98/NodeJs-Practice-1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
